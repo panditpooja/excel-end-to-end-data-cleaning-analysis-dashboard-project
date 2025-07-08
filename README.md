@@ -1,12 +1,10 @@
 
-# 📊 End-to-End Excel Project: Bike Buyers Dataset
+# 🚲 End To End Excel Data Analytics Project: Interactive Bike Sales Dashboard
 
 [![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoft-excel&logoColor=white)](#)
 [![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-FFCA28?logo=google-analytics&logoColor=white)](#)
 
-![Bike Sales Dashboard](a7a35b31-ef95-4a36-8780-b4bd18a3cf3a.png)
-
-This repository contains an **end-to-end Excel project** that showcases data cleaning, exploratory data analysis (EDA), and data visualization using Excel tools. It is designed to demonstrate structured Excel workflows that can be used for reporting, insights generation, and dashboards.
+This repository showcases a full Excel analytics workflow: from raw data cleaning, exploratory data analysis (EDA) to building an interactive dashboard for insights. It demonstrates how Excel can be used for reporting, business analysis, and creating shareable visuals for stakeholders.
 
 ---
 
@@ -15,16 +13,18 @@ This repository contains an **end-to-end Excel project** that showcases data cle
 ```
 excel-end-to-end-data-cleaning-analysis-dashboard-project/
 │
-├── Raw Excel Project Dataset.xlsx       # Original dataset
+├── Raw Excel Project Dataset.xlsx        # Original dataset
 │
 ├── Cleaned Data with EDA and visualizations/
-│   ├── Final Excel Project             # Excel cleaned data, dashboards for visualizations
-├── README.md                            # Project documentation
+│   ├── Final Excel Project               # Excel cleaned data, dashboards for visualizations
+│   ├── final_dashboard_screenprint.png   # Screenshot of Bike Sales Dashboard
+├── README.md                             # Project documentation
 ```
 
 ---
+## Final Bike Sales Dashboard Screenshot
 
-![Screenshot of Bike Sales Dashboard]()
+![Screenshot of Bike Sales Dashboard](https://github.com/panditpooja/excel-end-to-end-data-cleaning-analysis-dashboard-project/blob/main/Cleaned%20Data%20with%20EDA%20and%20visualizations/final_dashboard_screenprint.png)
 
 ---
 
@@ -49,6 +49,18 @@ While designing dashboards in Excel, I followed these principles to make them **
 3. 📐 **Align charts and elements** neatly for a professional layout.  
 4. 🎛️ **Insert slicers** using Pivot Chart Analyzer for filtering data easily.  
 5. ✨ **Make dashboards interactive and informative** to enhance user experience.  
+
+---
+
+## 🛠️ Skills Highlighted
+1. Data Cleaning and Transformation in Excel
+2. Pivot Tables and Pivot Charts
+3. Dashboard Design and Visualization
+4. Business Insights Generation
+
+---
+## 📌 Why This Project?
+This Excel project demonstrates how to transform raw sales data into actionable insights using Excel’s built-in tools. The result is a dynamic, interactive dashboard that can support decision-making and reporting in a business context.
 
 ---
 
